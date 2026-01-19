@@ -1,0 +1,6 @@
+# .gitignore
+node_modules/
+*.zip
+*.log
+.env
+.DS_Store
